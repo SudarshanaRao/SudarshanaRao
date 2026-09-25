@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
+     role="img" aria-label="Sudarshana Rao Gollamandala — Technical Lead. Technical Lead · Software Developer at Finpages Tech Pvt Ltd.">
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset=".55" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#243244" stroke-opacity=".22"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-opacity=".22"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="#030712"/>
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#grid)"/>
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#glow)"/>
+  <rect x="9" y="9" width="1162" height="592" rx="23" fill="none" stroke="#243244"/>
+
+  <!-- Terminal chrome -->
+  <rect x="30" y="28" width="1120" height="44" rx="14" fill="#0B1220" stroke="#243244"/>
+  <circle cx="52" cy="50" r="5" fill="#EF4444"/>
+  <circle cx="69" cy="50" r="5" fill="#F59E0B"/>
+  <circle cx="86" cy="50" r="5" fill="#10B981"/>
+  <text x="108" y="55" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="12" fill="#94A3B8">sudarshana@profile:~</text>
+  <text x="1038" y="55" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="11" fill="#10B981">[ ONLINE ]</text>
+
+  <!-- Left visual identity -->
+  <rect x="30" y="92" width="570" height="482" rx="20" fill="#0B1220" fill-opacity=".82" stroke="#243244" filter="url(#shadow)"/>
+  <text x="315" y="127" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="11" letter-spacing="3" fill="#22D3EE">VISUAL.MAP</text>
+
+  <rect x="82" y="155" width="466" height="240" rx="18" fill="#0F172A" stroke="#243244"/>
+  <text x="315" y="184" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" fill="#94A3B8">/profile/identity</text>
+
+  <!-- Abstract terminal identity mark; no portrait supplied -->
+  <g font-family="ui-monospace, monospace" text-anchor="middle">
+    <text x="315" y="250" font-size="68" font-weight="800" fill="url(#accent)" opacity=".92">SR</text>
+    <text x="315" y="277" font-size="12" fill="#94A3B8">SOFTWARE · SYSTEMS · WEB</text>
+    <line x1="190" y1="296" x2="440" y2="296" stroke="url(#accent)" opacity=".65"/>
+    <text x="315" y="323" font-size="11" fill="#F8FAFC">build · integrate · deploy</text>
+    <text x="315" y="347" font-size="10" fill="#94A3B8">Java  /  Spring  /  Node  /  React  /  AWS</text>
+    <text x="315" y="371" font-size="10" fill="#94A3B8">terminal.identity.render()</text>
+  </g>
+
+  <text x="72" y="444" font-family="ui-monospace, monospace" font-size="11" fill="#94A3B8">$ ./profile.sh</text>
+  <text x="72" y="468" font-family="ui-monospace, monospace" font-size="15" fill="#F8FAFC">Sudarshana Rao Gollamandala</text>
+  <text x="72" y="493" font-family="ui-monospace, monospace" font-size="12" fill="#22D3EE">Technical Lead · Software Developer</text>
+  <text x="72" y="518" font-family="ui-monospace, monospace" font-size="11" fill="#94A3B8">~/career $ build --ship</text>
+  <rect x="211" y="507" width="7" height="14" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="72" y="548" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">focused on practical software engineering</text>
+
+  <!-- Right system info -->
+  <rect x="620" y="92" width="530" height="482" rx="20" fill="#0B1220" fill-opacity=".86" stroke="#243244" filter="url(#shadow)"/>
+  <text x="655" y="126" font-family="ui-monospace, monospace" font-size="11" letter-spacing="2" fill="#22D3EE">SYSTEM.INFO</text>
+  <text x="655" y="151" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">sudarshana@profile:~$ ./profile.sh</text>
+
+  <text x="655" y="181" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">NAME</text>
+  <text x="765" y="181" font-family="ui-monospace, monospace" font-size="12" fill="#F8FAFC">Sudarshana Rao Gollamandala</text>
+  <text x="655" y="204" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">ROLE</text>
+  <text x="765" y="204" font-family="ui-monospace, monospace" font-size="12" fill="#F8FAFC">Technical Lead</text>
+  <text x="655" y="227" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">COMPANY</text>
+  <text x="765" y="227" font-family="ui-monospace, monospace" font-size="12" fill="#F8FAFC">Finpages Tech Pvt Ltd</text>
+  <text x="655" y="250" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">EXPERIENCE</text>
+  <text x="765" y="250" font-family="ui-monospace, monospace" font-size="12" fill="#F8FAFC">Jun 2025 – Present</text>
+
+  
+        <text x="655" y="286" font-size="13" font-weight="700" fill="#F8FAFC">Dharshtrendz</text>
+        <text x="655" y="305" font-size="10.5" fill="#94A3B8">Responsive e-commerce web application built with React.js, React Router </text>
+        <line x1="655" y1="317" x2="1128" y2="317" stroke="#243244" opacity=".55"/>
+        
+        <text x="655" y="344" font-size="13" font-weight="700" fill="#F8FAFC">My Personal Portfolio</text>
+        <text x="655" y="363" font-size="10.5" fill="#94A3B8">Responsive portfolio website showcasing skills, projects and professiona</text>
+        <line x1="655" y1="375" x2="1128" y2="375" stroke="#243244" opacity=".55"/>
+        
+        <text x="655" y="402" font-size="13" font-weight="700" fill="#F8FAFC">Ton Web Clone</text>
+        <text x="655" y="421" font-size="10.5" fill="#94A3B8">Front-end clone of the TON Web interface demonstrating modern blockchain</text>
+        <line x1="655" y1="433" x2="1128" y2="433" stroke="#243244" opacity=".55"/>
+        
+
+  <text x="655" y="417" font-family="ui-monospace, monospace" font-size="10" letter-spacing="1.5" fill="#22D3EE">CORE STACK</text>
+  
+        <g>
+          <rect x="655" y="438" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="667" cy="450.5" r="3" fill="#22D3EE">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="676" y="455" font-size="11" fill="#F8FAFC">Java</text>
+        </g>
+        <g>
+          <rect x="767" y="438" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="779" cy="450.5" r="3" fill="#7C3AED">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="788" y="455" font-size="11" fill="#F8FAFC">JavaScript</text>
+        </g>
+        <g>
+          <rect x="879" y="438" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="891" cy="450.5" r="3" fill="#10B981">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="900" y="455" font-size="11" fill="#F8FAFC">ReactJS</text>
+        </g>
+        <g>
+          <rect x="991" y="438" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="1003" cy="450.5" r="3" fill="#22D3EE">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="1012" y="455" font-size="11" fill="#F8FAFC">Node.js</text>
+        </g>
+        <g>
+          <rect x="655" y="476" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="667" cy="488.5" r="3" fill="#7C3AED">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="676" y="493" font-size="11" fill="#F8FAFC">Spring</text>
+        </g>
+        <g>
+          <rect x="767" y="476" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="779" cy="488.5" r="3" fill="#10B981">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="4.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="788" y="493" font-size="11" fill="#F8FAFC">MongoDB</text>
+        </g>
+        <g>
+          <rect x="879" y="476" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="891" cy="488.5" r="3" fill="#22D3EE">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="900" y="493" font-size="11" fill="#F8FAFC">MySQL</text>
+        </g>
+        <g>
+          <rect x="991" y="476" width="100" height="25" rx="12.5" fill="#0F172A" stroke="#243244"/>
+          <circle cx="1003" cy="488.5" r="3" fill="#7C3AED">
+            <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+          </circle>
+          <text x="1012" y="493" font-size="11" fill="#F8FAFC">AWS</text>
+        </g>
+
+  <a href="https://github.com/SudarshanaRao">
+    <text x="655" y="531" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">GITHUB</text>
+    <text x="715" y="531" font-family="ui-monospace, monospace" font-size="10" fill="#F8FAFC">github.com/SudarshanaRao</text>
+  </a>
+  <a href="mailto:pandu.sudha2003@gmail.com">
+    <text x="655" y="553" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8">EMAIL</text>
+    <text x="715" y="553" font-family="ui-monospace, monospace" font-size="10" fill="#F8FAFC">pandu.sudha2003@gmail.com</text>
+  </a>
+
+  <rect x="9" y="9" width="1162" height="592" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".28">
+    <animate attributeName="stroke-opacity" values=".15;.42;.15" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
